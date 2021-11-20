@@ -1,10 +1,10 @@
 module.exports = {
     emojis: {
         off: '<a:kilit:850623406499037194>',
-        error: '<a:hayirr:843773938538643467>',
-        queue: ':<a:iyigeceler:845632835474030622>',
+        error: '<a:x_1:850619865772851210>',
+        queue: '<a:iyigeceler:845632835474030622>',
         music: '<a:music:844299514076856321>',
-        success: '<a:tikk:843773128006041600>',
+        success: '<a:checkmark:850619863830888459>',
     },
     discord: {
         prefix: '.',
