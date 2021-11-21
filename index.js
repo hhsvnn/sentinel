@@ -34,7 +34,7 @@ for (const file of events) {
     client.on(file.split(".")[0], event.bind(null, client));
 };
 
-client.login("");
+client.login("ODAzOTY4MDc3MDM3MDQzNzgy.YBFfng.9Ms-QTDCFvtD6wMXR8nZ7CIEA_g");
 
 client.on("ready", () => {
 console.log("Toplamda şu kadar sunucuda : " + client.guilds.cache.size);
