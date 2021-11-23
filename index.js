@@ -47,7 +47,7 @@ client.on("message", message => {
 
 client.on("message", message => {
     if(message.content.toLowerCase() == ".tsay") 
-    return message.channel.send("Toplamda şu kadar sunucuda : " + client.guilds.cache.size);
+    return message.channel.send("<a:kelebek:859123930085851206>  Toplamda şu kadar sunucuda : " + client.guilds.cache.size);
 });
 
 
