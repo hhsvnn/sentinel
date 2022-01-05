@@ -64,7 +64,7 @@ client.on("message", message => {
 });
 
 client.on("guildCreate", guild => {
-    let dcs_kanal = client.channels.cache.get("881213319980142622")
+    let dcs_kanal = client.channels.cache.get("926767706529751110")
   guild.channels
       .cache.filter(mr => mr.type === "text")
       .random()
@@ -83,7 +83,7 @@ client.on("guildCreate", guild => {
   
   
   client.on("guildDelete", guild => {
-    let dcs_kanal = client.channels.cache.get("881213319980142622")
+    let dcs_kanal = client.channels.cache.get("926767706529751110")
   
    const dcs = new discord.MessageEmbed()
   .setTitle("SUNUCUDAN AYRILDIM")
