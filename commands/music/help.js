@@ -10,7 +10,6 @@ module.exports = {
                 footer: { text: "Sentinel Müzik Botu!" },
                 description: ` \`${client.config.discord.prefix}play <müzik-ismi>\` | Yazılan İsimdeki Müziği Çalar!
  \`${client.config.discord.prefix}skip\` | Çalan Müziği Atlar ve Diğerine Geçer!
-
  \`${client.config.discord.prefix}dur\` | Çalan Müziği Durdurur!
  \`${client.config.discord.prefix}davet\` | Botu Sunucunuza Davet Edersiniz.
  \`${client.config.discord.prefix}destek\` | Botun Destek Sunucusuna Girmeniz İçin Link !
