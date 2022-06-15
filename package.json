@@ -1,9 +1,9 @@
 {
   "name": "music-bot-v12",
   "main": "index.js",
-  "author": "Umut Bayraktar",
+  "author": "thelox",
   "version": "5.0.0",
-  "description": "Umut Bayraktar Discord Müzik Botu Discord.js V12 Uyumludur!",
+  "description": "ne diyim bunu da yapamıyorsan bot falan kurcalama kanka",
   "scripts": {
     "start": "node index.js"
   },
